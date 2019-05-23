@@ -30,5 +30,35 @@ Make sure you located in the correct directory <br>
   The menu from the the image should pop up<br>
   </p>
   </li>
-</ul>
+<li>
+  <p>
+  3 : Select one of the option from the menu</p>
+  </li>
+<li>
+  <p>
+  4 : To exit the tool type q in the main menu</p>
+  <p><br />
+</li></ul>
+<p><br />
 </p>
+  <strong>Option 1 : Install New Services</strong></p>
+<p>Description:</p>
+<p>By selecting option one , a panel will open showing all the windows feature not currently installed</p>
+<p>by selecting one of the option , all the sub-feature from that services and management tools will be installed.</p>
+<p>&nbsp;</p>
+<p><strong>Option 2 : Select a server </strong></p>
+<p>Description:</p>
+<p>This option contains no option yet it's a beta</p>
+<p>&nbsp;</p>
+<p><strong>Option 3 : Create New IIS Sites</strong></p>
+<p>Requirement:</p>
+<p>Windows DNS feature install on the current operation system</p>
+<p>Windows IIS feature install on the current operation system </p>
+<p>Description:</p>
+<p>This options setup a new website inside the default app pool</p>
+<p>In the process a new directory located in C:\inetpub\wwwroot\ will be created with the name of your domain</p>
+<p>Finally, a DNS zone with an A record will be created on the local DNS server, pointing to localhost 127.0.0.1 where local website testing can be conduct </p>
+<p>&nbsp;</p>
+<p><strong>Option 4 : List IIS Sites</strong></p>
+<p>Description:</p>
+<p>This option will only list the site currently available on the server</p>
