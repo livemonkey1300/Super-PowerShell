@@ -1,5 +1,4 @@
-# Super-PowerShell
-<p align="center">
+<h1>Powershell</h1>
+<p align="left">
   <img src="docs/display_console.JPG" width="350" title="hover text">
-  <img src="docs/display_console.JPG" width="350" alt="accessibility text">
 </p>
