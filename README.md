@@ -65,4 +65,4 @@ Make sure you located in the correct directory <br>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1>Warning</h1>
-<p>This is not a fully completed powershell , in no case it should be use withing an infrastucture until completion , or  if it's modify by system addriminstator. it's still in the beta phase</p>
+<p>This is not a fully completed powershell utility, in no case it should be used withing an infrastructure until completion, or  if it's modified by a system administrator. This project is in beta phase</p>
